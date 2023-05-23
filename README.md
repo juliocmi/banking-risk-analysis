@@ -1,2 +1,2 @@
 # banking-risk-analysis
-Preparación de informe para la división de prestamos de un banco donde se tendrá en cuenta la puntuación de crédito para un cliente potencial.
+Preparation of report for the loan division of a bank, where the credit score will be taken into account for a potential client, for this project libraries of pandas and numpy were used.
